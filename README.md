@@ -4,6 +4,8 @@
 
 This project showcases the design and implementation of an ETL pipeline using Azure Data Factory (ADF) for data extraction, transformation, and loading. It also demonstrates the use of Databricks for data transformation, Azure Synapse for SQL-based analysis, and Power BI for data visualization.
 
+Link to the demonstration: https://cdnapisec.kaltura.com/html5/html5lib/v2.98/mwEmbedFrame.php/p/2707131/uiconf_id/45992501/entry_id/1_rwo1z0s2?wid=_2707131&flashvars%5BmediaProxy.mediaPlayFrom%5D=2&iframeembed=true&playerId=kplayer&entry_id=1_rwo1z0s2&flashvars%5BstreamerType%5D=auto
+
 ## Components
 
 ### 1. Azure Data Factory (ADF)
@@ -31,6 +33,3 @@ This project showcases the design and implementation of an ETL pipeline using Az
 
 This project demonstrates the end-to-end process of designing and implementing an ETL pipeline using Azure Data Factory, Databricks, Azure Synapse, and Power BI. It highlights the importance of each component in the data processing workflow and showcases the capabilities of Azure's data services for modern data analytics.
 
----
-
-Feel free to customize this template to fit your specific project details and requirements!
