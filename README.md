@@ -27,14 +27,6 @@ This project showcases the design and implementation of an ETL pipeline using Az
 - **Data Visualization**: Power BI is used to create interactive visualizations and dashboards based on the analyzed data.
 - **Reporting**: Power BI reports provide insights into the data for stakeholders and decision-makers.
 
-## How to Run
-
-1. **Set up Azure Resources**: Provision Azure Data Factory, Azure Synapse, and Power BI services.
-2. **Configure Data Factory Pipelines**: Define data sources, transformation steps, and destinations in ADF pipelines.
-3. **Transform Data in Databricks**: Use Databricks notebooks to perform data transformation tasks.
-4. **Analyze Data in Azure Synapse**: Write SQL queries in Azure Synapse to analyze the transformed data.
-5. **Visualize Data in Power BI**: Connect Power BI to the analyzed data in Azure Synapse and create visualizations.
-
 ## Conclusion
 
 This project demonstrates the end-to-end process of designing and implementing an ETL pipeline using Azure Data Factory, Databricks, Azure Synapse, and Power BI. It highlights the importance of each component in the data processing workflow and showcases the capabilities of Azure's data services for modern data analytics.
